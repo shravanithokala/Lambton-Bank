@@ -1,0 +1,4 @@
+Prudhvi,1,400.0,CHEQUING
+Shravani,2,910.0,SAVING
+Shiv,3,100.0,INVESTMENT
+
